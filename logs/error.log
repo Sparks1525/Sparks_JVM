@@ -1,0 +1,7 @@
+2018.09.04 at 15:12:27 CST ERROR jvm.test.Test4 58 test3 - stack length:11418
+2018.09.04 at 15:13:28 CST ERROR jvm.test.Test4 58 test3 - stack length:11428
+2018.09.04 at 15:14:41 CST ERROR jvm.test.Test4 58 test3 - stack length:11422
+2018.09.04 at 15:14:46 CST ERROR jvm.test.Test4 58 test3 - stack length:11413
+2018.09.04 at 15:16:04 CST ERROR jvm.test.Test4 58 test3 - stack length:1003
+2018.09.04 at 15:16:38 CST ERROR jvm.test.Test4 58 test3 - stack length:832003
+2018.09.04 at 15:17:04 CST ERROR jvm.test.Test4 58 test3 - stack length:995
